@@ -70,7 +70,7 @@ O atributo **nome** é protegido **(protected)**, controlando o acesso nas subcl
 ***1. Compile os arquivos:*** <br>
 ```javac Animal.java Cachorro.java Gato.java Main.java```
 
-***2. Execute o programa*** <br>
+***2. Execute o programa:*** <br>
 ```java Main```
 
 ***Exemplo de saída:***<br>
@@ -82,4 +82,4 @@ O animal Mel está dormindo.
 ```
 ---
 **Conclusão** 📌 <br>
-Este projeto demonstra de forma clara e objetiva o funcionamento dos principais conceitos de **Programação Orientada a Objetos** em Java. É ideal como base de estudo ou como parte de um portfólio inicial, evidenciando domínio dos pilares da POO e boas práticas de modelagem de classes.
+Este projeto demonstra de forma clara e prática a aplicação dos principais conceitos de **Programação Orientada a Objetos** em Java. Ele evidencia o uso de **abstração, herança, polimorfismo e encapsulamento**, mostrando como organizar e estruturar classes de forma eficiente e reutilizável.
